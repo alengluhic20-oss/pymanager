@@ -1,3 +1,4 @@
+pip install jsonschema
 import json
 import sys
 
